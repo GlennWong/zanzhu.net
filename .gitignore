@@ -1,5 +1,6 @@
 .*.swp
 /cache
+/.phalcon
 app/config/config.php
 public/css/webtools.css
 public/webtools.config.php
